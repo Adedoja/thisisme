@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.istockphoto.com/id/1161702497/vector/team-of-programmer-concept-with-devops-software-development-practices-methodology-vector.jpg?s=612x612&w=0&k=20&c=5cqLQaudaYaXv3OdYQHjt-F-LhcuOiBhXWtHLMwj4PU=" width="1000"/>
+  <img src="https://t4.ftcdn.net/jpg/03/96/98/33/360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66.webp" width="800"/>
 </div>
 <h1 align="center">Hi 👋, I'm Toluwase Adedoja</h1>
 <h3 align="center">A Cloud DevOps Engineer</h3>
