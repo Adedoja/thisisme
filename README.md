@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BodaTolu&show_icons=true&locale=en&layout=compact" alt="BodaTolu" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BodaTolu&show_icons=true&locale=en" alt="BodaTolu" /></p>
+<p><br>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BodaTolu&show_icons=true&locale=en" alt="BodaTolu" /></br></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BodaTolu&" alt="BodaTolu" /></p>
+<p><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BodaTolu&" alt="BodaTolu" /></br></p>
